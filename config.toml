@@ -210,7 +210,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Twitter = "xiosec"
     GitHub = "xiosec"
     Discord = "xio#8901"
-    Medium = "@xiosec"
     HackTheBox = "xiosec"
     Linkedin = ""
     Instagram = ""
